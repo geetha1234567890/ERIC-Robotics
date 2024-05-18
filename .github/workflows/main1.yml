@@ -19,5 +19,5 @@ jobs:
       uses: akhileshns/heroku-deploy@v3.12.12
       with:
         heroku_api_key: ${{HRKU-1cecc10a-a7c9-466f-a9f4-1d33e13d07e8}}
-        heroku_app_name: "heroku_app"
+        heroku_app_name: "Geetha Rathod"
         heroku_email: "geetachawhan645@gmail.com"
