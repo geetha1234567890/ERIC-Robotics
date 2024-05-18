@@ -22,5 +22,5 @@ jobs:
       - name: Deploy to Heroku
         uses: akhileshns/heroku-deploy@v3
         with:
-          heroku_api_key: ${{ HRKU-1cecc10a-a7c9-466f-a9f4-1d33e13d07e8 }}
+          heroku_api_key: ${{HRKU-1cecc10a-a7c9-466f-a9f4-1d33e13d07e8}}
           heroku_app_name: aap.py
